@@ -1,0 +1,7 @@
+Since this project uses only built-in Python functions, create a file named:
+
+requirements.txt
+
+Content:
+
+# No external packages required
